@@ -1,4 +1,4 @@
-fun<- function(x,y){
- z = x + y
-  return{z}
-}
+tfun <- function(x,y) {
+  z=x+y
+  return(z)
+  }
